@@ -1,4 +1,6 @@
-![](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)  
+<div align="center">
+<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" align="center" height="" width="" />
+</div>  
   
 
 ### <div align="center">Hi! I'm Emre. 👨‍💻 🚀</div>  
@@ -63,4 +65,3 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
