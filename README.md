@@ -6,10 +6,10 @@
 ### <div align="center">Hi! I'm Emre. 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Java Spring Patikası (Orta)](https://github.com/EmreSahna/javaspringpatikasi-ortar)  
+- 🔭 I’m currently working on Java
   
 
-- 🌱 I’m currently learning Spring Boot  
+- 🌱 I’m currently learning Spring Boot
   
 
 - ⚡ Fun fact: I don't have fun fact  
