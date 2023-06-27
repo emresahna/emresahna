@@ -1,67 +1,46 @@
+<h1 align="center">Hi! I'm Emir Emre Şahna 🧿</h1>  
+
+<h3 align="center">☕ Java Developer & Software Engineer 👨‍💻</h3>
+
+About Me:
+- 21 yo
+- Senior Computer Engineering Student At Istanbul Gedik University 
+- Interest in trend technologies, software engineering.
+- Hobbies are bicycling, traveling, coding.
+
 <div align="center">
-<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" align="center" height="" width="" />
+<img src="https://komarev.com/ghpvc/?username=EmreSahna&&style=flat&color=42ba96" align="center" alt="EmreSahna"/>
 </div>  
-  
 
-### <div align="center">Hi! I'm Emre. 👨‍💻 🚀</div>  
-  
-
-- 🔭 I’m currently working on Java
-  
-
-- 🌱 I’m currently learning Spring Boot
-  
-
-- ⚡ Fun fact: I don't have fun fact  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+<h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://twitter.com/sahnaixic" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/emres.py" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/emre-ş-6ab911128" target="_blank">
+<a href="https://linkedin.com/in/emresahna" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/emresahna" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://instagram.com/emres.dev" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@emre.sahna" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+</div> 
+
+<h3 align="center">Skills:</h3>
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>  
+
+</br>
+
+<div align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmreSahna&layout=compact&theme=aura" height=159>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmreSahna&show_icons=true&count_private=true&theme=aura" height=159/>  
+</div> 
